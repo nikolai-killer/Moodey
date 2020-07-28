@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "265560451182",
+    "firebase_url": "https://mooday-4ff76.firebaseio.com",
+    "project_id": "mooday-4ff76",
+    "storage_bucket": "mooday-4ff76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265560451182:android:c75a5cfe98e18b59799e7f",
+        "android_client_info": {
+          "package_name": "de.flow.moodey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265560451182-lidu38tide0rcv9gmgjuer9iej8t73tu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa8sZR5Joj75wq5ibLlbQPI5XhUleedkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265560451182-lidu38tide0rcv9gmgjuer9iej8t73tu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
